@@ -40,6 +40,22 @@ SpriteAtlas:
   m_PackedSprites:
   - {fileID: 21300000, guid: 069c8790c65b91d4f8913339fb43edd8, type: 3}
   - {fileID: 21300000, guid: 5a854a73249474c42a5091e5f9fcd51c, type: 3}
+  - {fileID: 1376184901, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: -266009212, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: 663134981, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: -65356473, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: -52514924, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: -1266932050, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: 1603978310, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: -952714918, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: -1571177876, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: -149134613, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: -172613163, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: 1105837026, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: 91809279, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: -589273107, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: -1590094370, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
+  - {fileID: 169553255, guid: 24fb6e56abca94f899bc40980d0a6373, type: 3}
   - {fileID: 21300000, guid: f39d2927ffd14374da4fc3fbc3c2c4db, type: 3}
   - {fileID: 21300000, guid: 4efaa3a96c646d543a265adb3f58ffd9, type: 3}
   - {fileID: 21300000, guid: 741ea6c98cfa1244784573b4ef268f8c, type: 3}
@@ -48,6 +64,22 @@ SpriteAtlas:
   m_PackedSpriteNamesToIndex:
   - 61d183263a856e0004c6334a
   - Winning Flag
+  - 7d595a64c99a634d94759de8096cca14_15
+  - 7d595a64c99a634d94759de8096cca14_14
+  - 7d595a64c99a634d94759de8096cca14_11
+  - 7d595a64c99a634d94759de8096cca14_10
+  - 7d595a64c99a634d94759de8096cca14_13
+  - 7d595a64c99a634d94759de8096cca14_12
+  - 7d595a64c99a634d94759de8096cca14_8
+  - 7d595a64c99a634d94759de8096cca14_9
+  - 7d595a64c99a634d94759de8096cca14_6
+  - 7d595a64c99a634d94759de8096cca14_7
+  - 7d595a64c99a634d94759de8096cca14_4
+  - 7d595a64c99a634d94759de8096cca14_5
+  - 7d595a64c99a634d94759de8096cca14_2
+  - 7d595a64c99a634d94759de8096cca14_3
+  - 7d595a64c99a634d94759de8096cca14_0
+  - 7d595a64c99a634d94759de8096cca14_1
   - fedora-png-34104
   - Cooked-Chicken-Transparent-PNG
   - Pipes
