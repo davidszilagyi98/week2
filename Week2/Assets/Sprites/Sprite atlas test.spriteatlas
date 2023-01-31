@@ -6,7 +6,7 @@ SpriteAtlas:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Basic Sprites
+  m_Name: Sprite atlas test
   m_EditorData:
     serializedVersion: 2
     textureSettings:
@@ -38,27 +38,21 @@ SpriteAtlas:
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
-  - {fileID: 21300000, guid: fd52b0a232b27ae42ae7d9cf9920d26c, type: 3}
+  - {fileID: 21300000, guid: 069c8790c65b91d4f8913339fb43edd8, type: 3}
   - {fileID: 21300000, guid: 5a854a73249474c42a5091e5f9fcd51c, type: 3}
-<<<<<<< Updated upstream
-=======
   - {fileID: 21300000, guid: f39d2927ffd14374da4fc3fbc3c2c4db, type: 3}
   - {fileID: 21300000, guid: 4efaa3a96c646d543a265adb3f58ffd9, type: 3}
->>>>>>> Stashed changes
   - {fileID: 21300000, guid: 741ea6c98cfa1244784573b4ef268f8c, type: 3}
   - {fileID: 21300000, guid: 74011c9bd97289c4593789e56224e6f1, type: 3}
   - {fileID: 21300000, guid: ab29df0e3e0f9c14b918d4b691cc6850, type: 3}
   m_PackedSpriteNamesToIndex:
-  - 151-1515323_flappy-bird-png-flappy-bird-sprite-png
+  - 61d183263a856e0004c6334a
   - Winning Flag
-<<<<<<< Updated upstream
-=======
   - fedora-png-34104
   - Cooked-Chicken-Transparent-PNG
->>>>>>> Stashed changes
   - Pipes
   - Gold Coin
   - Floppy
   m_RenderDataMap: {}
-  m_Tag: Basic Sprites
+  m_Tag: Sprite atlas test
   m_IsVariant: 0
