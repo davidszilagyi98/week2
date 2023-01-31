@@ -70,8 +70,8 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
+    textureCompression: 2
+    compressionQuality: 0
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
@@ -1147,12 +1147,12 @@ TextureImporter:
       Sprite Sheet (Czech)_1: -432905675
       Sprite Sheet (Czech)_23: -2006962104
       Sprite Sheet (Czech)_41: -1837944408
-      Sprite Sheet (Czech)_35: 457563843
       Sprite Sheet (Czech)_26: 404339491
-      Sprite Sheet (Czech)_19: -873097705
       Sprite Sheet (Czech)_43: -101359507
-      Sprite Sheet (Czech)_11: -1609106420
       Sprite Sheet (Czech)_44: -1237881268
+      Sprite Sheet (Czech)_35: 457563843
+      Sprite Sheet (Czech)_19: -873097705
+      Sprite Sheet (Czech)_11: -1609106420
       Sprite Sheet (Czech)_47: 1404976221
       Sprite Sheet (Czech)_9: -1868565201
       Sprite Sheet (Czech)_20: 591334024
