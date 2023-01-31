@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: 1f55e786adafec84d8274c470f3a00b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bf764953624ae4ea0cd8a6de8ec38a
+      internalID: -1842146779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b1fe05ee524d84888548bac05dad8f
+      internalID: -432905675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b61d9c04314e740a5bedc8058d6c4b
+      internalID: 1365255015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d640d8cb7993641aaf860aa3521056
+      internalID: 2121807417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788bd1b242b43b14b8d1f57ca7c33644
+      internalID: -1678262942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e81cf3ceecbe774d9f73305b4713d6a
+      internalID: -683035150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eb4d0a88d216648a153f5ca11d75e6
+      internalID: 182228252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb485cba21e9ade41b3e11df808678e7
+      internalID: -420169533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f3e90439fffe4c91296d65776224b
+      internalID: -745606028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eed0884444af504b858a0ba73a3cba9
+      internalID: -1868565201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_10
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be750f7ae6346434a8e62a399fbcaf83
+      internalID: -329633246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_11
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 476.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2291388efb50aba4684c0f3d715e784d
+      internalID: -1609106420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8622f2b7590f246b803ac6d0316d5f
+      internalID: 1121960301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db870f0445f46a46a99ff6c5d62a442
+      internalID: -2111254766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aef9430e0a409478cde82f6c92e54e
+      internalID: -1988939201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5428f22a74729db43abe4fb52b1fe3a3
+      internalID: -235282565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6365c97d5024b247849d38aedbbe77d
+      internalID: -2067965060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dafc4dcb0585734e983d6bd3e84c51f
+      internalID: 1004903392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce0a5ff37b5aa14e9334ce7a2fd287c
+      internalID: 407396575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a056eeb2c6f4ec4f915e12d05ca6fcb
+      internalID: -873097705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_20
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7d3cb6e88719b468072d9db55c8f90
+      internalID: 591334024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_21
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4426477f498a5d4d8df5bcd535be7e9
+      internalID: 1421398824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_22
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de7f7856a6ae648a57ad755917895c
+      internalID: -17174065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_23
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 318.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6552d6d8a34b82e42bc4d79f62641afc
+      internalID: -2006962104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556e1bde7ab6e5f41ba9ca2a120c5bbc
+      internalID: -153099102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1039ca395f8e04d9122b21ceb4f42b
+      internalID: 263715698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe70bc44e58a1e4c82e05fcb8fa7b4b
+      internalID: 404339491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9851efaaae8eafc429b83940f99fc602
+      internalID: 745995282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_28
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38042682cdb538849b2f9d3162cbcf88
+      internalID: -2017511704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4728fb18309934ea06b3c4a716eb13
+      internalID: 1479189973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_30
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbe125fc22a24c4995b6f7c20c02d66
+      internalID: 324465385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_31
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c53f66e756cdd42b43b68ae9f8f749
+      internalID: 1795527405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_32
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2426f1b50d84bd41a761ff87b1d9d1d
+      internalID: 1787861157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_33
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49f8deda1bfaed4e9d7b999c4c7c9d5
+      internalID: -1131054087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_34
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b4f1270ccb20c4cba58bdbdc58ddf5
+      internalID: 715883551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_35
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 160.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6742f9901a902e40a2d558780370c83
+      internalID: 457563843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3440c8687a7fbf46abf606bec3f061a
+      internalID: 138814235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3e4ddc78572794d956abe0d916f222
+      internalID: 825495147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_38
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c778878eec556364ca77505321c9f22d
+      internalID: -1753618516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f75becb00ea9742af6069d8cb6e70e
+      internalID: 1409929632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_40
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc6e38b7c9a78446a1c9afbe2ebdece
+      internalID: 1405876138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_41
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb0b1f23eb8284d8ad83b2602cfa48
+      internalID: -1837944408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_42
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617340c14cf3bc46984a842e83a7319
+      internalID: 1670390421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_43
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355707c556670fe46a2eb1141fc0b0bd
+      internalID: -101359507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_44
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3780ae2a1f6080649936728b74b506d6
+      internalID: -1237881268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_45
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed4760dbee23344ca6e0c16880c976f
+      internalID: 1566671518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_46
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26213aaabfd0c84a9ffad846f7849e8
+      internalID: 272235186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet (Czech)_47
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2.25
+        width: 95.166664
+        height: 158.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f08ca2d426ff741a705f2a919fb65b
+      internalID: 1404976221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite Sheet (Czech)_18: 407396575
+      Sprite Sheet (Czech)_45: 1566671518
+      Sprite Sheet (Czech)_24: -153099102
+      Sprite Sheet (Czech)_27: 745995282
+      Sprite Sheet (Czech)_5: -683035150
+      Sprite Sheet (Czech)_32: 1787861157
+      Sprite Sheet (Czech)_16: -2067965060
+      Sprite Sheet (Czech)_3: 2121807417
+      Sprite Sheet (Czech)_38: -1753618516
+      Sprite Sheet (Czech)_7: -420169533
+      Sprite Sheet (Czech)_17: 1004903392
+      Sprite Sheet (Czech)_39: 1409929632
+      Sprite Sheet (Czech)_30: 324465385
+      Sprite Sheet (Czech)_10: -329633246
+      Sprite Sheet (Czech)_34: 715883551
+      Sprite Sheet (Czech)_37: 825495147
+      Sprite Sheet (Czech)_4: -1678262942
+      Sprite Sheet (Czech)_25: 263715698
+      Sprite Sheet (Czech)_40: 1405876138
+      Sprite Sheet (Czech)_42: 1670390421
+      Sprite Sheet (Czech)_33: -1131054087
+      Sprite Sheet (Czech)_1: -432905675
+      Sprite Sheet (Czech)_23: -2006962104
+      Sprite Sheet (Czech)_41: -1837944408
+      Sprite Sheet (Czech)_35: 457563843
+      Sprite Sheet (Czech)_26: 404339491
+      Sprite Sheet (Czech)_19: -873097705
+      Sprite Sheet (Czech)_43: -101359507
+      Sprite Sheet (Czech)_11: -1609106420
+      Sprite Sheet (Czech)_44: -1237881268
+      Sprite Sheet (Czech)_47: 1404976221
+      Sprite Sheet (Czech)_9: -1868565201
+      Sprite Sheet (Czech)_20: 591334024
+      Sprite Sheet (Czech)_0: -1842146779
+      Sprite Sheet (Czech)_28: -2017511704
+      Sprite Sheet (Czech)_13: -2111254766
+      Sprite Sheet (Czech)_29: 1479189973
+      Sprite Sheet (Czech)_6: 182228252
+      Sprite Sheet (Czech)_12: 1121960301
+      Sprite Sheet (Czech)_2: 1365255015
+      Sprite Sheet (Czech)_21: 1421398824
+      Sprite Sheet (Czech)_8: -745606028
+      Sprite Sheet (Czech)_14: -1988939201
+      Sprite Sheet (Czech)_22: -17174065
+      Sprite Sheet (Czech)_31: 1795527405
+      Sprite Sheet (Czech)_36: 138814235
+      Sprite Sheet (Czech)_46: 272235186
+      Sprite Sheet (Czech)_15: -235282565
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
