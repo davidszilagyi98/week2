@@ -132,7 +132,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6293159246757016931, guid: 90b5d18f461f43440a15701e02c79b23, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6293159246757016931, guid: 90b5d18f461f43440a15701e02c79b23, type: 3}
       propertyPath: m_LocalPosition.x
@@ -233,7 +233,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 3.1019382
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -574,6 +574,14 @@ PrefabInstance:
     - target: {fileID: 1024615585556370812, guid: 3469e95e5b556404e99eff6450029eb1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3997474473495164543, guid: 3469e95e5b556404e99eff6450029eb1, type: 3}
+      propertyPath: m_Name
+      value: fedora
+      objectReference: {fileID: 0}
+    - target: {fileID: 4053124068354962899, guid: 3469e95e5b556404e99eff6450029eb1, type: 3}
+      propertyPath: m_Name
+      value: chicken
       objectReference: {fileID: 0}
     - target: {fileID: 7754671290197141928, guid: 3469e95e5b556404e99eff6450029eb1, type: 3}
       propertyPath: m_Name
