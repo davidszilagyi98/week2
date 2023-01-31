@@ -42,13 +42,17 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 5a854a73249474c42a5091e5f9fcd51c, type: 3}
   - {fileID: 21300000, guid: f39d2927ffd14374da4fc3fbc3c2c4db, type: 3}
   - {fileID: 21300000, guid: 4efaa3a96c646d543a265adb3f58ffd9, type: 3}
+  - {fileID: 21300000, guid: 741ea6c98cfa1244784573b4ef268f8c, type: 3}
   - {fileID: 21300000, guid: 74011c9bd97289c4593789e56224e6f1, type: 3}
+  - {fileID: 21300000, guid: ab29df0e3e0f9c14b918d4b691cc6850, type: 3}
   m_PackedSpriteNamesToIndex:
   - 61d183263a856e0004c6334a
   - Winning Flag
   - fedora-png-34104
   - Cooked-Chicken-Transparent-PNG
+  - Pipes
   - Gold Coin
+  - Floppy
   m_RenderDataMap: {}
   m_Tag: New Sprite Atlas
   m_IsVariant: 0
